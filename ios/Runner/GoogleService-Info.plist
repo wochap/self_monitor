@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>368455091388-fv7sd3c0c3rapdth865qlieqn4noimbc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.368455091388-fv7sd3c0c3rapdth865qlieqn4noimbc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>368455091388-g5e68f8lvq65luu28abjs8dc3s6d0jo3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAf0r1W4NR-r2c0ZznH297XgCrSx5PJ7Vc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>368455091388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wochap.selfmonitor</string>
+	<key>PROJECT_ID</key>
+	<string>self-monitor</string>
+	<key>STORAGE_BUCKET</key>
+	<string>self-monitor.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:368455091388:ios:467e96ae7d864a486dfcb9</string>
+	<key>DATABASE_URL</key>
+	<string>https://self-monitor.firebaseio.com</string>
+</dict>
+</plist>
