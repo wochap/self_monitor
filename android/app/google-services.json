@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "368455091388",
+    "firebase_url": "https://self-monitor.firebaseio.com",
+    "project_id": "self-monitor",
+    "storage_bucket": "self-monitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368455091388:android:f48d4cf9b6bdb2e46dfcb9",
+        "android_client_info": {
+          "package_name": "com.wochap.selfmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368455091388-g5e68f8lvq65luu28abjs8dc3s6d0jo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wochap.selfmonitor",
+            "certificate_hash": "2d7075a099f9a192cebe6ccf7253093f71efd6da"
+          }
+        },
+        {
+          "client_id": "368455091388-ob1q2ncl5ul9ruaavq47prrdhkv78jm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHWrjYPM505I2G0Mb1BqjkADQcMQvfzSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368455091388-ob1q2ncl5ul9ruaavq47prrdhkv78jm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
