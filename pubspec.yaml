@@ -33,6 +33,13 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   firebase_core:
+  cloud_firestore:
+  firebase_auth:
+  google_sign_in:
+  apple_sign_in:
+  provider:
+  rxdart:
+  font_awesome_flutter:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
